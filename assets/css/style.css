@@ -1,0 +1,30 @@
+.navbar-brand {
+    font-size: 40px;
+}
+
+h1 {
+    font-size: 20px;
+    color: darkslategrey;
+   
+    
+}
+
+
+.search-box {
+    background-color: rgb(244, 244, 248);
+    border-radius: 5px;
+    
+}
+
+.result-box {
+    border: 2px solid rgb(244, 244, 248);
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.five-day-head {
+    margin-left: 10px;
+}
