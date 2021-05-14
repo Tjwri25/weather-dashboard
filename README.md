@@ -20,4 +20,4 @@ SO THAT I can plan a trip accordingly
 * Bootstrap
 
 ## Screenshot
-![_C__Users_tjwri_Desktop_bootcamp_Homework_week6-homework_weather-dashboard_weather-dashboard_index html_](https://user-images.githubusercontent.com/74884495/118207833-be541000-b422-11eb-9c44-21568fdebed4.png)
+![_C__Users_tjwri_Desktop_bootcamp_Homework_week6-homework_weather-dashboard_weather-dashboard_index html_ (1)](https://user-images.githubusercontent.com/74884495/118207957-fa877080-b422-11eb-8784-5120355a25f3.png)
